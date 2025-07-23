@@ -13,3 +13,4 @@ TruScript-to-ThinkScript compiler tools with DropManager and GitHub preset loade
 1. Compose `.tru` drops
 2. Load via DropManager
 3. Export to orchestration shells
+🔗 [Back to TruEdge™ Launchpad Index](https://github.com/TruEdge-systems/TruEdge_Launchpad/blob/main/README.md)
